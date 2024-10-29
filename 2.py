@@ -23,3 +23,7 @@ plt.gca().spines['left'].set_visible(False)
 
 plt.title('Number of artists worked per song')
 plt.show()
+
+
+
+
