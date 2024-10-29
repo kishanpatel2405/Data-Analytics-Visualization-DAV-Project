@@ -12,3 +12,6 @@ plt.pie(data, labels=labels, autopct='%.0f%%')
 plt.legend()
 plt.title('Number of artist per chart')
 plt.show()
+
+
+
