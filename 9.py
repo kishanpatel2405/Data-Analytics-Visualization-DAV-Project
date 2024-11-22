@@ -21,3 +21,22 @@ plt.xticks(rotation=45)  # Rotate x-axis labels for better readability
 plt.grid(axis='y')       # Add grid lines along the y-axis
 plt.tight_layout()
 plt.show()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
