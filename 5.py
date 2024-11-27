@@ -35,3 +35,20 @@ ax1.set_title('Top songs according to Streams')
 
 plt.tight_layout()
 plt.show()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
