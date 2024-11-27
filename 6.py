@@ -13,3 +13,13 @@ plt.pie(years_counts, labels=years_counts.index, autopct='%1.1f%%')
 plt.title('Distribution of Years (2010-2023)')
 plt.axis('equal')
 plt.show()
+
+
+
+
+
+
+
+
+
+
