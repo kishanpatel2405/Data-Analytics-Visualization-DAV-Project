@@ -12,3 +12,7 @@ ax = sns.histplot(df['released_year'], binrange=(2000, 2022), discrete=True)
 ax.set(xlabel='Year', ylabel='Count')
 ax.set_title('Total Songs Released Per Year (2000 - 2024)')
 plt.show()
+
+
+
+
