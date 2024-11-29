@@ -14,21 +14,3 @@ plt.pie(mode_counts, labels=mode_counts.index, autopct='%1.1f%%')
 plt.title('Distribution of Mode')
 plt.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
